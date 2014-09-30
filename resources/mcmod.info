@@ -1,0 +1,26 @@
+[
+	{
+		"modid":		"BERRYMOD",
+		"name":			"BerryMod",
+		"description":	"The Berrytube Custom Mod! Or some such crap.",
+		"version":		"0.0.1",
+		"mcversion":	"1.7.10",
+		"url": 			"",
+		"updateUrl": 	"",
+		"authorList": 	
+			[
+				"Cades",
+				"Lavender"
+			],
+		"credits": 		"I wanna' thank Jesus",
+		"logoFile": 	"MGNForge.png",
+		"screenshots":
+			[
+			
+			],
+		"dependencies": 
+			[
+			
+			]
+	}
+]
